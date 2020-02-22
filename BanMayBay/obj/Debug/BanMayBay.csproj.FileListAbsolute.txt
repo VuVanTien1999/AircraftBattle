@@ -1,0 +1,22 @@
+C:\Users\Vu Van Tien\source\repos\BanMayBay\BanMayBay\bin\Debug\BanMayBay.exe
+C:\Users\Vu Van Tien\source\repos\BanMayBay\BanMayBay\bin\Debug\BanMayBay.pdb
+C:\Users\Vu Van Tien\source\repos\BanMayBay\BanMayBay\obj\Debug\BanMayBay.csprojAssemblyReference.cache
+C:\Users\Vu Van Tien\source\repos\BanMayBay\BanMayBay\obj\Debug\BanMayBay.FormMenu.resources
+C:\Users\Vu Van Tien\source\repos\BanMayBay\BanMayBay\obj\Debug\BanMayBay.Properties.Resources.resources
+C:\Users\Vu Van Tien\source\repos\BanMayBay\BanMayBay\obj\Debug\BanMayBay.SanDau.resources
+C:\Users\Vu Van Tien\source\repos\BanMayBay\BanMayBay\obj\Debug\BanMayBay.XepMayBay.resources
+C:\Users\Vu Van Tien\source\repos\BanMayBay\BanMayBay\obj\Debug\BanMayBay.csproj.GenerateResource.cache
+C:\Users\Vu Van Tien\source\repos\BanMayBay\BanMayBay\obj\Debug\BanMayBay.csproj.CoreCompileInputs.cache
+C:\Users\Vu Van Tien\source\repos\BanMayBay\BanMayBay\obj\Debug\BanMayBay.exe
+C:\Users\Vu Van Tien\source\repos\BanMayBay\BanMayBay\obj\Debug\BanMayBay.pdb
+C:\Users\Vu Van Tien\Desktop\BanMayBay (1)\BanMayBay\BanMayBay\obj\Debug\BanMayBay.csprojAssemblyReference.cache
+C:\Users\Vu Van Tien\Desktop\BanMayBay (1)\BanMayBay\BanMayBay\obj\Debug\BanMayBay.FormMenu.resources
+C:\Users\Vu Van Tien\Desktop\BanMayBay (1)\BanMayBay\BanMayBay\obj\Debug\BanMayBay.Properties.Resources.resources
+C:\Users\Vu Van Tien\Desktop\BanMayBay (1)\BanMayBay\BanMayBay\obj\Debug\BanMayBay.SanDau.resources
+C:\Users\Vu Van Tien\Desktop\BanMayBay (1)\BanMayBay\BanMayBay\obj\Debug\BanMayBay.XepMayBay.resources
+C:\Users\Vu Van Tien\Desktop\BanMayBay (1)\BanMayBay\BanMayBay\obj\Debug\BanMayBay.csproj.GenerateResource.cache
+C:\Users\Vu Van Tien\Desktop\BanMayBay (1)\BanMayBay\BanMayBay\obj\Debug\BanMayBay.csproj.CoreCompileInputs.cache
+C:\Users\Vu Van Tien\Desktop\BanMayBay (1)\BanMayBay\BanMayBay\obj\Debug\BanMayBay.exe
+C:\Users\Vu Van Tien\Desktop\BanMayBay (1)\BanMayBay\BanMayBay\obj\Debug\BanMayBay.pdb
+C:\Users\Vu Van Tien\Desktop\BanMayBay (1)\BanMayBay\BanMayBay\bin\Debug\BanMayBay.exe
+C:\Users\Vu Van Tien\Desktop\BanMayBay (1)\BanMayBay\BanMayBay\bin\Debug\BanMayBay.pdb

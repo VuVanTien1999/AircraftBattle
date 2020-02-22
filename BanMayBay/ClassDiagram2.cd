@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BanMayBay.FormMenu">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAAAAAACCAAIAAAAACAKAAiEAAAAAAAIAAAAAAAgAI=</HashCode>
+      <FileName>ManHinhChinh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BanMayBay.myButton" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAAIAACAAAAAAAACAAAACABAAAAAAAABgAAAAYgA=</HashCode>
+      <FileName>myButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BanMayBay.Program" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BanMayBay.SanDau">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="label5_Click" Hidden="true" />
+    </Members>
+    <NestedTypes>
+      <Enum Name="BanMayBay.SanDau.turn" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SanDau.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>wAQAAAQAECAAABCABICCAABiAAAQAAhBAAAAAAALAAA=</HashCode>
+      <FileName>SanDau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BanMayBay.XepMayBay">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIgAAIAESQhgAAgAICAAjASiCAlIIaAIECAACAAQAA=</HashCode>
+      <FileName>XepMayBay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BanMayBay.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAEAAAAAABEAAAIQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BanMayBay.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BanMayBay.direction" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAgAAgAA=</HashCode>
+      <FileName>myButton.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
