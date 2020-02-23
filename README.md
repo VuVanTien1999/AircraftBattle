@@ -1,4 +1,4 @@
-### Mô phỏng game Bắn máy bay
+### Game Aircraft Battle
 Ngôn ngữ: C#
 
 Công cụ: Visual Studio 2017, WinForms
